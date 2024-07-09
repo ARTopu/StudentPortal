@@ -134,3 +134,4 @@ H:\Practice\.net Practice\New folder\Role based Authentication\CRUDpractice\CRUD
 H:\Practice\.net Practice\New folder\Role based Authentication\CRUDpractice\CRUDpractice\obj\Debug\net8.0\CRUDpractice.pdb
 H:\Practice\.net Practice\New folder\Role based Authentication\CRUDpractice\CRUDpractice\obj\Debug\net8.0\CRUDpractice.genruntimeconfig.cache
 H:\Practice\.net Practice\New folder\Role based Authentication\CRUDpractice\CRUDpractice\obj\Debug\net8.0\ref\CRUDpractice.dll
+H:\Practice\.net Practice\New folder\Role based Authentication\CRUDpractice\CRUDpractice\obj\Debug\net8.0\CRUDpractice.sourcelink.json

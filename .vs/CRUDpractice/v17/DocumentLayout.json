@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|h:\\practice\\.net practice\\new folder\\role based authentication\\crudpractice\\crudpractice\\migrations\\20240708171011_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|solutionrelative:crudpractice\\migrations\\20240708171011_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|h:\\practice\\.net practice\\new folder\\role based authentication\\crudpractice\\crudpractice\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|solutionrelative:crudpractice\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|h:\\practice\\.net practice\\new folder\\role based authentication\\crudpractice\\crudpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|solutionrelative:crudpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|h:\\practice\\.net practice\\new folder\\role based authentication\\crudpractice\\crudpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|solutionrelative:crudpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|h:\\practice\\.net practice\\new folder\\role based authentication\\crudpractice\\crudpractice\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|solutionrelative:crudpractice\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|h:\\practice\\.net practice\\new folder\\role based authentication\\crudpractice\\crudpractice\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|solutionrelative:crudpractice\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|h:\\practice\\.net practice\\new folder\\role based authentication\\crudpractice\\crudpractice\\models\\addstudentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|solutionrelative:crudpractice\\models\\addstudentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|h:\\practice\\.net practice\\new folder\\role based authentication\\crudpractice\\crudpractice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|solutionrelative:crudpractice\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|h:\\practice\\.net practice\\new folder\\role based authentication\\crudpractice\\crudpractice\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99EE8058-CDEA-49F4-8BBC-7C4D33F6200F}|CRUDpractice\\CRUDpractice.csproj|solutionrelative:crudpractice\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,39 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240708171011_initial migration.cs",
-              "DocumentMoniker": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Migrations\\20240708171011_initial migration.cs",
-              "RelativeDocumentMoniker": "CRUDpractice\\Migrations\\20240708171011_initial migration.cs",
-              "ToolTip": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Migrations\\20240708171011_initial migration.cs",
-              "RelativeToolTip": "CRUDpractice\\Migrations\\20240708171011_initial migration.cs",
+              "Title": "List.cshtml",
+              "DocumentMoniker": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "CRUDpractice\\Views\\Students\\List.cshtml",
+              "ToolTip": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "CRUDpractice\\Views\\Students\\List.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:50:06.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudentsViewModel.cs",
+              "DocumentMoniker": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Models\\AddStudentsViewModel.cs",
+              "RelativeDocumentMoniker": "CRUDpractice\\Models\\AddStudentsViewModel.cs",
+              "ToolTip": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Models\\AddStudentsViewModel.cs",
+              "RelativeToolTip": "CRUDpractice\\Models\\AddStudentsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T17:10:12.188Z",
+              "WhenOpened": "2024-07-09T07:36:58.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "CRUDpractice\\Views\\Students\\Add.cshtml",
+              "ToolTip": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "CRUDpractice\\Views\\Students\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T07:16:18.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "CRUDpractice\\Controllers\\StudentsController.cs",
+              "ToolTip": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "CRUDpractice\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:15:57.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\appsettings.json",
-              "RelativeDocumentMoniker": "CRUDpractice\\appsettings.json",
-              "ToolTip": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\appsettings.json",
-              "RelativeToolTip": "CRUDpractice\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-08T16:41:08.919Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Program.cs",
-              "RelativeDocumentMoniker": "CRUDpractice\\Program.cs",
-              "ToolTip": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Program.cs",
-              "RelativeToolTip": "CRUDpractice\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "Student.cs",
+              "DocumentMoniker": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "CRUDpractice\\Models\\Entities\\Student.cs",
+              "ToolTip": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "CRUDpractice\\Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T13:22:28.073Z"
+              "WhenOpened": "2024-07-08T09:40:04.191Z"
             },
             {
               "$type": "Document",
@@ -80,18 +109,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T12:31:34.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Models\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "CRUDpractice\\Models\\Entities\\Student.cs",
-              "ToolTip": "H:\\Practice\\.net Practice\\New folder\\Role based Authentication\\CRUDpractice\\CRUDpractice\\Models\\Entities\\Student.cs",
-              "RelativeToolTip": "CRUDpractice\\Models\\Entities\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T09:40:04.191Z"
             }
           ]
         }
